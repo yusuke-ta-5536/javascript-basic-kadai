@@ -6,5 +6,5 @@ const text = document.getElementById('text');
 
 // HTML要素がクリックされたときに文字を書き換える
 btn.addEventListener('click', () => {
-    text.textContent = 'ボタンをクリックしました'
+    text.textContent = 'ボタンをクリックしました';
 });
